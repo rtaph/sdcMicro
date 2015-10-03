@@ -304,16 +304,6 @@ The specific set of chosen key variables has direct influence on the risk assess
 their distribution is a key input for the calculation of both individual and global risk 
 measures as it is now discussed.
 
-Measuring risk in a micro dataset is a key task. Risk measurements are
-essential to determine if the dataset is secure enough to be released. To assess
-disclosure risk, one must make realistic assumptions about the information data
-users might have at hand to match against the micro dataset; these assumptions
-are called disclosure risk scenarios. 
-This goes hand in hand with the selection of categorical key variables because
-the choice these identifying variables defines a specific disclosure risk scenario.
-The specific set of chosen key variables has direct influence on the risk assessment because 
-their distribution is a key input for the estimation of both individual and
-global risk measures as it is now discussed.
 For example, for a disclosure scenario for the European Union
 Structure of Earnings Statistics we can assume that information on company size,
 economic activity, age and earnings of employees are available in available data
